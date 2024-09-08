@@ -2,6 +2,8 @@
 
 Welcome to the Random Quote Generator! This React application offers a dynamic and interactive way to explore and enjoy random quotes. Built with a focus on user experience and modern web technologies, it features a variety of functionalities to enhance the quote-fetching experience.
 
+It has been inspired and learnt from various platforms.
+
 ## Features
 
 - **Random Quote Generation:** Retrieves and displays a random quote from the Quotable API.
